@@ -93,7 +93,7 @@ header {
 .navbar a:hover {
   color: var(--main-color);
 }
-.navbar a. {
+.navbar a {
   color: var(--main-color);
 }
 .main {
@@ -130,7 +130,7 @@ header {
 }
 
 #menu-icon {
-  background: ;
+  background: "";
   font-size: 35px;
   color: var(--text-color);
   cursor: pointer;
@@ -262,7 +262,7 @@ ul {
   font-size: 16px;
   color: white;
 }
-.colom h4: :before {
+.colom h4::before {
   content: "";
   position: absolute;
   height: 2px;
@@ -292,7 +292,7 @@ ul {
   transform: translateX(-10px);
 }
 
-.colom .laundry a img: hover {
+.colom .laundry a img:hover {
   transform: scale(1.2);
 }
 .colom .social a {
